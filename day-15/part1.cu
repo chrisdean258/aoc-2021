@@ -1,2 +1,1 @@
-risk = map(getline, \map(\0, \\0 - '0' - 0))
-
+a = Heap([], \0 < \1)
